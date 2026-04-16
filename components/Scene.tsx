@@ -86,7 +86,7 @@ half4 main(float2 p) {
 }
 `;
 
-const r = 55;
+const r = 30;
 
 interface SceneProps {
   filter?: (shader: SkShader) => SkImageFilter;
